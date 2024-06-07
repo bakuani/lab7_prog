@@ -1,0 +1,2 @@
+help
+execute_script C:\Users\anna2\IdeaProjects\Server\src\Script.txt
